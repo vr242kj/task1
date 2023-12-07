@@ -1,3 +1,5 @@
+package main;
+
 public class CustomObject {
     private String type;
     private final String name;
@@ -21,7 +23,7 @@ public class CustomObject {
 
     @Override
     public String toString() {
-        return "CustomObject{" +
+        return "main.CustomObject{" +
                 "type='" + type + '\'' +
                 ", name='" + name + '\'' +
                 '}';

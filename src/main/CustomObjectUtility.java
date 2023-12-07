@@ -1,3 +1,7 @@
+package main;
+
+import main.CustomObject;
+
 import java.util.*;
 
 public class CustomObjectUtility {
